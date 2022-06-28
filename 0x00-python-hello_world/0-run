@@ -1,1 +1,2 @@
-Readme.md
+#!/bin/bash
+python3 $PYFILE
