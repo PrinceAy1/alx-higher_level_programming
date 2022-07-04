@@ -1,4 +1,3 @@
-  
 #include <Python.h>
 /**
   * print_python_list_info - prints python list info
